@@ -59,4 +59,14 @@ SQL · Excel · Power BI · Python · pandas · scikit-learn · data cleaning ·
 
 ## What I’m Looking For
 
-Entry-level or junior data analyst work where I can clean messy data, build useful reports, and help teams make better operational decisions.
+Work where I can clean messy data, build useful reports, and help teams make better operational decisions:
+BI Analyst
+Data Analyst I
+Reporting Analyst
+Operations Analyst
+Data Quality Analyst
+Program Analyst
+Performance Analyst
+Quality Measures Data Analyst
+Financial Analyst I, where the role is Excel/Power BI/reporting-heavy
+Public-sector data analyst roles
