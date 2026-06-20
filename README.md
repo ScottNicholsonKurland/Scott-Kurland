@@ -1,3 +1,5 @@
+![Scott Kurland — Data Analyst](assets/profile-banner.svg)
+
 # Scott Nicholson Kurland
 
 **Entry-level data analyst focused on SQL, Excel, Power BI, Python, data cleaning, KPI reporting, and business-facing dashboards.**
@@ -6,13 +8,13 @@ I turn messy operational data into clean datasets, practical reports, dashboard-
 
 ## Portfolio Projects
 
-| Project | Tools | What it shows | Repo |
-|---|---|---|---|
-| Healthcare Encounter Analytics | MySQL, Python, Power BI | Cleaned and analyzed 55,500 healthcare encounter records, built reporting dashboards, tested predictive signal, and concluded the dataset is better for descriptive operations reporting than clinical prediction | `healthcare-analytics` |
-| Used Car Auction KPI Pipeline | MySQL, Power BI, Excel/CSV | Cleaned auction transaction data, validated dates/prices/odometer/VIN fields, created derived KPIs, and built reporting views for dashboard analysis | `Car-Auctions` |
-| 100 Data Science Problems | Python, pandas, NumPy, pytest, CI | Built a tested practice repo with problem statements, reference solutions, automated checks, and data-analysis programming exercises | `100-ds-problems` |
-| Workplace Safety Analysis | Excel, CSV, KPI design | Built a composite state-level workplace safety risk score using fatality, injury, inspection, and penalty metrics | `Work_Safety` |
-| Austin Construction Permit Growth | Python, pandas, scikit-learn | Analyzed Austin construction permit data to identify ZIP-level development concentration and prototype added-square-footage modeling | `Austin-Growth` |
+| Project | Tools | What it shows |
+|---|---|---|
+| [Healthcare Encounter Analytics](https://github.com/ScottNicholsonKurland/healthcare-analytics) | MySQL, Python, Power BI | Cleaned and analyzed 55,500 healthcare encounter records, built reporting dashboards, tested predictive signal, and concluded the dataset is better for descriptive operations reporting than clinical prediction |
+| [Used Car Auction KPI Pipeline](https://github.com/ScottNicholsonKurland/Car-Auctions) | MySQL, Power BI, Excel/CSV | Cleaned auction transaction data, validated dates/prices/odometer/VIN fields, created derived KPIs, and built reporting views for dashboard analysis |
+| [100 Data Science Problems](https://github.com/ScottNicholsonKurland/100-ds-problems) | Python, pandas, NumPy, pytest, CI | Built a tested practice repo with problem statements, reference solutions, automated checks, and data-analysis programming exercises |
+| [Workplace Safety Analysis](https://github.com/ScottNicholsonKurland/Work_Safety) | Excel, CSV, KPI design | Built a composite state-level workplace safety risk score using fatality, injury, inspection, and penalty metrics |
+| [Austin Construction Permit Growth](https://github.com/ScottNicholsonKurland/Austin-Growth) | Python, pandas, scikit-learn | Analyzed Austin construction permit data to identify ZIP-level development concentration and prototype added-square-footage modeling |
 
 ## Core Skills
 
@@ -25,16 +27,7 @@ I turn messy operational data into clean datasets, practical reports, dashboard-
 
 ## Best Fit Roles
 
-- Data Analyst I
-- Junior Data Analyst
-- BI Analyst
-- Reporting Analyst
-- Operations Analyst
-- Data Quality Analyst
-- Program Analyst
-- Performance Analyst
-- Quality Measures Data Analyst
-- Public-sector data analyst roles
+Data Analyst I · Junior Data Analyst · BI Analyst · Reporting Analyst · Operations Analyst · Data Quality Analyst · Program Analyst · Performance Analyst · Quality Measures Data Analyst · Public-sector data analyst roles
 
 ## What I Bring
 
